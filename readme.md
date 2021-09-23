@@ -6,6 +6,8 @@
 
 # southside V - Dokumentation
 
+Plattform: alt:V Multiplayer<br>
+Gamemode: German Reallife
 ## 🚀  Wir arbeiten mit...
 
 ### Backend
